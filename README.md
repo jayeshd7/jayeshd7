@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @jayeshd7
-- 👀 I’m interested in DSA, LLD, HLD, Chaos Engineering
+- 👀 I’m interested in DSA, LLD, HLD, Chaos Engineering, Creating utilities.
 - 🌱 I’m currently learning chaos engineering on service layer using chaos monkey & infra layer (k8's) using chaos mesh.
 - 💞️ I’m looking to collaborate on concurrecy & scalable system
-- 📫 How to reach me https://www.linkedin.com/in/jayesh-dalal-885b8266/
+- :runner: How to reach me <br />
+      1. https://www.linkedin.com/in/jayesh-dalal-885b8266/ <br />
+      2. https://twitter.com/dalal_jayesh
+- :metal: Language which I like to work - java, python, JS, Go, Kotlin
 
 <!---
 jayeshd7/jayeshd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
